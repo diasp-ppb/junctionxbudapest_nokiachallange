@@ -62,6 +62,10 @@ var DIGIT_CAPTURED = {
 
 var API_TOKEN = "5a8b14c1a353b4000197972fc4df4daca7984ac0b0d35d86daaed7a8";
 
+var LOCAL_URL = "http://9992cdca.ngrok.io";
+
+var NOKIA_HOST = "https://mn.developer.nokia.com/tasseeAPI";
+
 
 module.exports = {
    continue: CONTINUE,
@@ -70,4 +74,6 @@ module.exports = {
    playA: PLAY_ANNOUNCEMENT,
    digit: DIGIT_CAPTURED,
    apitoken: API_TOKEN,
+   local: LOCAL_URL,
+   host: NOKIA_HOST,
 }
