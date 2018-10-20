@@ -1,0 +1,18 @@
+{
+  "name": "nokia_tas_call_direction_api",
+  "version": "1.0.0",
+  "description": "The_first_version_of_the_Nokia_TAS_Call_Direction_API_is_an_exciting_step_forward_towards_making_it_easier_for_developers_to_have_open_access_to_their_operators_network_",
+  "license": "Unlicense",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha --recursive"
+  },
+  "dependencies": {
+    "superagent": "1.7.1"
+  },
+  "devDependencies": {
+    "mocha": "~2.3.4",
+    "sinon": "1.17.3",
+    "expect.js": "~0.3.1"
+  }
+}
