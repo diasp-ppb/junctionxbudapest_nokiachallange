@@ -62,7 +62,7 @@ var DIGIT_CAPTURED = {
 
 var API_TOKEN = "5a8b14c1a353b4000197972fc4df4daca7984ac0b0d35d86daaed7a8";
 
-var LOCAL_URL = "http://9992cdca.ngrok.io";
+var LOCAL_URL = "http://5f44791a.ngrok.io";
 
 var NOKIA_HOST = "https://mn.developer.nokia.com/tasseeAPI";
 

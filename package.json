@@ -9,7 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ejs": "^2.6.1",
+    "expo-server-sdk": "^3.0.1",
     "express": "^4.16.3",
-    "request": "^2.87.0"
+    "hashtable": "^2.0.2",
+    "nokia_tas_call_direction_api": "file:nokia_tas_call_direction_api",
+    "request": "^2.88.0"
   }
 }
